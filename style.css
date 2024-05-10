@@ -37,15 +37,19 @@
 .estudante{
     padding: 24px 0;
 }
-.estudante_imagem{
+.professores_todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.professor_imagem{
     width: 120px;
 }
-.estudante_div{
+.professor_div{
     text-align: center;
     padding: 16px 0;
 }
 
-.estudante_icone{
+.professor_icone{
     width: 24px;
     padding: 4px 8px;
 }
