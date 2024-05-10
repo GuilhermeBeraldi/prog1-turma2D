@@ -31,6 +31,9 @@
 .titulo_seçao_estudante{
     padding: 24px 0;
 }
+.paragrafo_seçao_estudante{
+    width: 30%;
+}
 .imagem_seçao_estudante{
     width: 25%;
 }
