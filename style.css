@@ -53,3 +53,11 @@
     width: 24px;
     padding: 4px 8px;
 }
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+.rodape_imagem{
+    height: 60px;
+    padding: 12px 0;
+}
